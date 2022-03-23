@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background: #1f1f1f;
+}
+
+body {
+  margin: 0;
+}
+
+.app-container
+{
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
